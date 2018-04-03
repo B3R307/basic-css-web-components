@@ -1,0 +1,30 @@
+*{
+	box-sizing: border-box;
+	outline-offset:
+}
+body {
+	background-color: #FBF9F1
+	font-family: Georgia, Palatino, serif;
+  font-family: Geneva, Ubuntu, sans-serif;
+	line-height: 1.25;
+	link-color: #77A8D2;
+	text-align: left;
+	width: 50%;
+	height: 50%;
+	margin-top: 10%;
+  margin-left: 30%;
+}
+
+#be{
+background: #000000;
+color: #ffffff;
+}
+
+.bl{
+	text-decoration: none;
+	color: #0080ff;
+}
+
+p{
+  text-align: left;
+}

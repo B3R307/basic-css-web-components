@@ -1,0 +1,28 @@
+*{
+	box-sizing: border-box;
+}
+body {
+  font-family: Avenir;
+	width: 250px;
+	}
+
+.menu-list{
+	border: 2px solid #333
+}
+
+.menu-list p{
+	padding: 10px 10px;
+	margin: 0px;
+	border-bottom: 2px solid #333;
+
+}
+
+
+
+.menu-list p:last-of-type{
+	border-bottom: red 0px solid;
+}
+
+.selected{
+  color: #66CC99;
+}

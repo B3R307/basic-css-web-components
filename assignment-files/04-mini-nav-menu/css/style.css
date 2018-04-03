@@ -1,0 +1,56 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	font-family: Futura;
+}
+hr{
+	margin: 30px 30px;
+}
+p{
+	text-align: center;
+	border
+
+}
+
+.e{
+ display:inline-block;
+ padding: 13px;
+ background: rgb(205,92,92);
+ color: white;
+}
+.h{
+	display:inline-block;
+	padding: 15px;
+  background: rgb(205,92,92);
+	color: white;
+}
+.p{
+  display:inline-block;
+	padding: 15px;
+  background: rgb(205,92,92);
+	color: white;
+}
+.c{
+	padding: 15px;
+  background: rgb(205,92,92);
+	color: white;
+}
+.g{
+  display:inline-block;
+	padding: 15px;
+  background: rgb(205,92,92);
+	color: white;
+}
+.a{
+  display:inline-block;
+	padding: 15px;
+  background: rgb(205,92,92);
+	color: white;
+}
+.ss{
+	display:inline-block;
+}
+p input{
+	text-align: right;
+}
